@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hola,%20soy%20Álvaro%20Casas&fontSize=80&animation=fadeIn&fontAlignY=35&desc=IT%20Technician%20%7C%20Cybersecurity%20Junior&descAlignY=55&descAlign=50" alt="Banner Álvaro Casas" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0077B5&height=150&section=header&text=Álvaro%20Casas&fontSize=50&fontColor=ffffff&desc=IT%20Technician%20|%20Cybersecurity%20&%20Networking%20Student%20|%20Security%20Enthusiast&descSize=18&descColor=ffffff&animation=fadeIn" alt="Banner Álvaro Casas" width="100%"/>
 </div>
 
 ### <div align="center">👨‍💻 Sobre mí</div>
@@ -19,52 +19,89 @@
 
 <br/>
 
-### 🚀 ¿Qué estoy haciendo?
+### 🛡️ ¿Quién soy y qué hago?
 
-Soy un profesional apasionado por la tecnología y la ciberseguridad. Me especializo en crear soluciones eficientes y escalables en base a mis proyectos personales.
-* 🔭 Actualmente estoy trabajando en **proyectos que implementen la ciberseguridad**
-* 🌱 Estoy aprendiendo constantemente sobre **nuevas tecnologías y tendencias del mercado**
-* 👯 Busco colaborar en **proyectos Open Source y con relación a mi nicho**
-* ⚡ Dato curioso: **Me encanta resolver problemas complejos con soluciones simples siempre y cuando sea posible.**
+¡Hola! Soy Álvaro Casas, un apasionado **Técnico Informático y Estudiante de Ciberseguridad y Redes (ASIX)**. Mi enfoque se centra en la protección de sistemas, el soporte técnico y la implementación de soluciones seguras. Me motiva el aprendizaje continuo en el dinámico mundo de la tecnología y la seguridad de la información.
+
+* 🔭 Actualmente estoy profundizando mis conocimientos en **Ciberseguridad y Administración de Sistemas**.
+* 🌱 Estoy aprendiendo activamente sobre **análisis de seguridad web, Python (Flask) y defensa de redes.**
+* 💼 Tengo experiencia práctica en **soporte de hardware/software, análisis SEO y diseño web.**
+* 🎯 Busco oportunidades como **Técnico de Sistemas, Analista de Seguridad o Administrador IT.**
 
 <br/>
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Áreas de Interés
 
-**Lenguajes**
+Aquí muestro algunas de las tecnologías y áreas en las que tengo experiencia o estoy formándome activamente:
+
+**Seguridad & Sistemas**
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-2F2F2F?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware_Support-555555?style=for-the-badge&logo=intel&logoColor=white" />
+</p>
+
+**Desarrollo & Herramientas**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Backend & Bases de Datos**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**Herramientas & DevOps**
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+**Otras Habilidades**
+<p>
+  <img src="https://img.shields.io/badge/SEO_Analysis-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Design-FF69B4?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT_Support-0077B5?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 <br/>
 
+### 💼 Experiencia Destacada
+
+* **SEO & Web Security Analyst** en Mandel VC GmbH (Berlín). Análisis técnico SEO y optimización web.
+* **IT Technician** en Caltecnic. Reparación de PC, instalación y actualización de equipos informáticos.
+* **Web Designer** en Paphos Studio's (Chipre, Erasmus+). Diseño web y creación de logos.
+* **Help Desk** en Salesians Mataró. Revisión y mantenimiento de portátiles, monitorización de servidores.
+
+<br/>
+
+### 🚀 Proyectos Recientes
+
+* 🔒 **Hotel Cala Noble - Proyecto de Ciberseguridad:** Simulación de equipo de seguridad para diseñar, implementar y defender la infraestructura de una empresa ficticia.
+* 🎫 **Sistema de Ticketing con QR (Flask):** Desarrollo de una solución práctica y accesible para la generación y validación segura de entradas a eventos usando Python y Flask.
+
+<br/>
+
+### 🎓 Educación Principal
+
+* **ASIX (Perfil Ciberseguridad)** - STUCOM Centre d'Estudis (2024 - 2026).
+* **MOOC Ciberseguridad** - Universidad de Málaga (2025 - 2026).
+
+---
+
+<br/>
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+---
+<div align="center">
+  <sub>Hecho con ❤️ por Álvaro Casas</sub>
+</div>
