@@ -21,7 +21,7 @@
 
 ### 🛡️ ¿Quién soy y qué hago?
 
-¡Hola! Soy Álvaro Casas, un apasionado **Técnico Informático y Estudiante de Ciberseguridad y Redes (ASIX)**. Mi enfoque se centra en la protección de sistemas, el soporte técnico y la implementación de soluciones seguras. Me motiva el aprendizaje continuo en el dinámico mundo de la tecnología y la seguridad de la información.
+¡Hola! Soy Álvaro Casas, un apasionado **de la Ciberseguridad**. Mi enfoque se centra en la protección de sistemas, el soporte técnico y la implementación de soluciones seguras. Me motiva el aprendizaje continuo en el dinámico mundo de la tecnología y la seguridad de la información.
 
 * 🔭 Actualmente estoy profundizando mis conocimientos en **Ciberseguridad y Administración de Sistemas**.
 * 🌱 Estoy aprendiendo activamente sobre **análisis de seguridad web, Python (Flask) y defensa de redes.**
