@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hola,%20soy%20Álvaro%20Casas&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" alt="Banner Álvaro Casas" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hola,%20soy%20Álvaro%20Casas&fontSize=80&animation=fadeIn&fontAlignY=35&desc=IT%20Technician%20%7C%20Cybersecurity%20Junior&descAlignY=55&descAlign=50" alt="Banner Álvaro Casas" width="100%"/>
 </div>
 
 ### <div align="center">👨‍💻 Sobre mí</div>
@@ -9,11 +9,8 @@
   <a href="https://www.linkedin.com/in/álvaro-casas-291217276" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu-email@gmail.com">
+  <a href="mailto:alvaro.casaspiloto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-   <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
   </a>
 
 </div>
@@ -24,11 +21,11 @@
 
 ### 🚀 ¿Qué estoy haciendo?
 
-Soy un profesional apasionado por la tecnología y el desarrollo de software. Me especializo en crear soluciones eficientes y escalables.
-* 🔭 Actualmente estoy trabajando en **proyectos interesantes y escalables.**
-* 🌱 Estoy aprendiendo constantemente sobre **nuevas arquitecturas y tecnologías cloud.**
-* 👯 Busco colaborar en **proyectos Open Source y desafiantes.**
-* ⚡ Dato curioso: **Me encanta resolver problemas complejos con soluciones simples.**
+Soy un profesional apasionado por la tecnología y la ciberseguridad. Me especializo en crear soluciones eficientes y escalables en base a mis proyectos personales.
+* 🔭 Actualmente estoy trabajando en **proyectos que implementen la ciberseguridad**
+* 🌱 Estoy aprendiendo constantemente sobre **nuevas tecnologías y tendencias del mercado**
+* 👯 Busco colaborar en **proyectos Open Source y con relación a mi nicho**
+* ⚡ Dato curioso: **Me encanta resolver problemas complejos con soluciones simples siempre y cuando sea posible.**
 
 <br/>
 
@@ -71,22 +68,3 @@ Soy un profesional apasionado por la tecnología y el desarrollo de software. Me
 
 <br/>
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br/>
-
----
-<div align="center">
-  <sub>Hecho con ❤️ por Álvaro Casas</sub>
-</div>
